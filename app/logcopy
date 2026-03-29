@@ -1,0 +1,192 @@
+---------------------------- PROCESS STARTED (23148) for package com.example.myscreener ----------------------------
+2026-03-28 16:39:15.695 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:39:15.700 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:39:15.811 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:39:16.170 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:39:16.258 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:39:16.628 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:39:16.699 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:39:17.030 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:39:17.126 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:39:20.130 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:25.096 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:44:25.107 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:25.158 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:44:25.594 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:44:27.365 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:44:30.252 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:44:30.341 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:44:32.724 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:44:33.343 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:33.356 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:36.484 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:44:37.536 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:44:39.485 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:39.513 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:40.740 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:44:41.518 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:44:43.741 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:43.747 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:46.565 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:44:48.988 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:44:49.567 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:49.573 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:50.298 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:44:52.809 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:44:53.300 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:53.305 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:55.173 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:44:57.344 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:44:58.174 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:58.180 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:44:58.440 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:44:59.463 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:01.441 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:45:01.473 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:45:01.748 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:02.127 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:02.441 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:04.308 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:04.781 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:05.221 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:06.882 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:07.807 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:08.373 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:08.987 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:09.573 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:12.577 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:45:20.308 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:20.317 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:45:20.350 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:22.102 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:22.166 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:22.894 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:22.941 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:24.536 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:24.599 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:26.194 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:26.258 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:28.145 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:28.191 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:29.766 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:29.832 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:31.187 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:31.518 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:31.701 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:32.240 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:32.760 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:32.833 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:35.666 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:35.737 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:37.262 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:37.316 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:40.321 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:45:44.889 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:45:44.894 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:45:44.957 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:45:47.962 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:46:15.463 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:46:15.468 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:46:15.499 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:46:18.506 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:46:26.100 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:46:26.104 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:46:26.157 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:46:28.077 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:46:28.149 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:46:31.154 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:46:31.561 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:46:31.568 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:46:31.608 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:46:33.226 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb4000079c8dc3d00}
+2026-03-28 16:46:33.654 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:46:33.727 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:46:34.494 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:46:34.558 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:46:35.837 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:46:35.892 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:46:37.002 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:46:37.066 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:46:40.069 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:47:05.629 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:05.634 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:47:05.682 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:06.836 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:06.881 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:08.880 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:08.916 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:09.665 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:09.706 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:10.335 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:10.415 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:12.695 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:12.715 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:13.151 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:13.208 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:13.609 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:13.674 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:14.093 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:14.141 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:14.628 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:14.674 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:15.395 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:15.474 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:16.002 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:16.089 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:16.323 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:16.378 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:16.636 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:16.685 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:19.692 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:47:28.049 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:28.051 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:47:28.124 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:29.151 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:29.240 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:30.986 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  stopped(true) old = false
+2026-03-28 16:47:30.986 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  WindowStopped on com.example.myscreener/com.example.myscreener.MainActivity set to true
+2026-03-28 16:47:31.006 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  Relayout returned: old=(0,0,1600,2560) new=(0,0,1600,2560) relayoutAsync=false req=(1600,2560)4 dur=5 res=0x2 s={false 0x0} ch=false seqId=0
+2026-03-28 16:47:31.007 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  Not drawing due to not visible. Reason=View.INVISIBLE
+2026-03-28 16:47:31.015 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  handleAppVisibility mAppVisible = true visible = false
+2026-03-28 16:47:36.494 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  handleAppVisibility mAppVisible = false visible = true
+2026-03-28 16:47:36.496 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  stopped(false) old = true
+2026-03-28 16:47:36.496 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  WindowStopped on com.example.myscreener/com.example.myscreener.MainActivity set to false
+2026-03-28 16:47:36.511 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  Relayout returned: old=(0,0,1600,2560) new=(0,0,1600,2560) relayoutAsync=false req=(1600,2560)0 dur=4 res=0x3 s={true 0xb400007a1e209f00} ch=true seqId=0
+2026-03-28 16:47:36.512 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  mThreadedRenderer.initialize() mSurface={isValid=true 0xb400007a1e209f00} hwInitialized=true
+2026-03-28 16:47:36.512 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  reportNextDraw android.view.ViewRootImpl.performTraversals:5443 android.view.ViewRootImpl.doTraversal:3924 android.view.ViewRootImpl$TraversalRunnable.run:12903 android.view.Choreographer$CallbackRecord.run:1901 android.view.Choreographer$CallbackRecord.run:1910
+2026-03-28 16:47:36.512 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  Setup new sync=wmsSync-VRI[MainActivity]@888bd24#6
+2026-03-28 16:47:36.512 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  Creating new active sync group VRI[MainActivity]@888bd24#7
+2026-03-28 16:47:36.512 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  Start draw after previous draw not visible
+2026-03-28 16:47:36.512 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  registerCallbacksForSync syncBuffer=false
+2026-03-28 16:47:36.520 23148-23171 VRI[MainAc...y]@888bd24 com.example.myscreener               D  Received frameDrawingCallback syncResult=0 frameNum=1.
+2026-03-28 16:47:36.520 23148-23171 VRI[MainAc...y]@888bd24 com.example.myscreener               I  mWNT: t=0xb400007a1e22fd00 mBlastBufferQueue=0xb4000079c5365000 fn= 1 HdrRenderState mRenderHdrSdrRatio=1.0 caller= android.view.ViewRootImpl$12.onFrameDraw:15441 android.view.ThreadedRenderer$1.onFrameDraw:718 <bottom of call stack>
+2026-03-28 16:47:36.520 23148-23171 VRI[MainAc...y]@888bd24 com.example.myscreener               I  Setting up sync and frameCommitCallback
+2026-03-28 16:47:36.533 23148-23167 VRI[MainAc...y]@888bd24 com.example.myscreener               I  Received frameCommittedCallback lastAttemptedDrawFrameNum=1 didProduceBuffer=true
+2026-03-28 16:47:36.534 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  reportDrawFinished seqId=0
+2026-03-28 16:47:36.535 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  handleResized, frames=ClientWindowFrames{frame=[0,0][1600,2560] display=[0,0][1600,2560] parentFrame=[0,0][0,0]} displayId=0 dragResizing=false compatScale=1.0 frameChanged=false attachedFrameChanged=false configChanged=false displayChanged=false compatScaleChanged=false dragResizingChanged=false
+2026-03-28 16:47:36.535 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  handleResized mSyncSeqId = 0
+2026-03-28 16:47:36.535 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  reportNextDraw android.view.ViewRootImpl.handleResized:2983 android.view.ViewRootImpl.-$$Nest$mhandleResized:0 android.view.ViewRootImpl$W.resized:14082 android.app.servertransaction.WindowStateResizeItem.execute:93 android.app.servertransaction.WindowStateTransactionItem.execute:62
+2026-03-28 16:47:36.535 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  Setup new sync=wmsSync-VRI[MainActivity]@888bd24#8
+2026-03-28 16:47:36.535 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  Creating new active sync group VRI[MainActivity]@888bd24#9
+2026-03-28 16:47:36.535 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  registerCallbacksForSync syncBuffer=false
+2026-03-28 16:47:36.535 23148-23170 VRI[MainAc...y]@888bd24 com.example.myscreener               D  Received frameDrawingCallback syncResult=0 frameNum=2.
+2026-03-28 16:47:36.535 23148-23170 VRI[MainAc...y]@888bd24 com.example.myscreener               I  Setting up sync and frameCommitCallback
+2026-03-28 16:47:36.535 23148-23167 VRI[MainAc...y]@888bd24 com.example.myscreener               I  Received frameCommittedCallback lastAttemptedDrawFrameNum=2 didProduceBuffer=false
+2026-03-28 16:47:36.536 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  reportDrawFinished seqId=0
+2026-03-28 16:47:36.568 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               D  mThreadedRenderer.initializeIfNeeded()#2 mSurface={isValid=true 0xb400007a1e209f00}
+2026-03-28 16:47:37.219 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:37.223 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=high hint, reason=touch, vri=VRI[MainActivity]@888bd24
+2026-03-28 16:47:37.267 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:37.702 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:37.766 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:38.196 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:38.259 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:39.593 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:39.666 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:41.028 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:41.091 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:41.201 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:41.283 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:41.408 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 0
+2026-03-28 16:47:41.466 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  ViewPostIme pointer 1
+2026-03-28 16:47:44.470 23148-23148 VRI[MainAc...y]@888bd24 com.example.myscreener               I  call setFrameRateCategory for touch hint category=no preference, reason=boost timeout, vri=VRI[MainActivity]@888bd24

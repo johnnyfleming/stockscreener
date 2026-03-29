@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!--
+        TradeScreener AI — launcher icon foreground
+        Safe zone: circle r=33 centred at (54,54)
+        Palette:
+          • Bullish green  #00E676
+          • Trend glow     #1A00E676  (translucent green)
+          • Wick / axis    #607D8B
+          • AI node        #FFD600  (golden yellow)
+    -->
+
+    <!-- ── Trend-line glow (drawn first so candles sit on top) ── -->
+    <path
+        android:strokeColor="#2200E676"
+        android:strokeWidth="14"
+        android:strokeLineCap="round"
+        android:pathData="M 34,84 L 74,32" />
+
+    <!-- ══════════════════════════════════════════════════════════
+         CANDLESTICK 1  –  center x=37, body y=68–83, wick y=63–87
+         ══════════════════════════════════════════════════════════ -->
+    <!-- wick -->
+    <path
+        android:strokeColor="#607D8B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M 37,63 L 37,87" />
+    <!-- body (bullish green) -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M 32,68 L 42,68 L 42,83 L 32,83 Z" />
+
+    <!-- ══════════════════════════════════════════════════════════
+         CANDLESTICK 2  –  center x=54, body y=55–71, wick y=50–75
+         ══════════════════════════════════════════════════════════ -->
+    <!-- wick -->
+    <path
+        android:strokeColor="#607D8B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M 54,50 L 54,75" />
+    <!-- body -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M 49,55 L 59,55 L 59,71 L 49,71 Z" />
+
+    <!-- ══════════════════════════════════════════════════════════
+         CANDLESTICK 3  –  center x=71, body y=40–57, wick y=35–61
+         ══════════════════════════════════════════════════════════ -->
+    <!-- wick -->
+    <path
+        android:strokeColor="#607D8B"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M 71,35 L 71,61" />
+    <!-- body -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M 66,40 L 76,40 L 76,57 L 66,57 Z" />
+
+    <!-- ══════════════════════════════════════════════════════════
+         TREND LINE  –  diagonal from candle-1 base to AI node
+         ══════════════════════════════════════════════════════════ -->
+    <path
+        android:strokeColor="#00E676"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M 34,84 L 74,32" />
+
+    <!-- Arrow head at trend-line tip -->
+    <path
+        android:fillColor="#00E676"
+        android:pathData="M 74,32 L 66,35 L 71,42 Z" />
+
+    <!-- ══════════════════════════════════════════════════════════
+         AI CIRCUIT NODE  –  centered at (74, 26), radius 8
+         Safe-zone distance from (54,54) ≈ 32.2 dp  ✓
+         ══════════════════════════════════════════════════════════ -->
+    <!-- Outer ring -->
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="2.5"
+        android:fillColor="#00000000"
+        android:pathData="M 66,26
+                          A 8,8 0 1 0 82,26
+                          A 8,8 0 1 0 66,26 Z" />
+    <!-- Inner dot -->
+    <path
+        android:fillColor="#FFD600"
+        android:pathData="M 71,26
+                          A 3,3 0 1 0 77,26
+                          A 3,3 0 1 0 71,26 Z" />
+
+    <!-- Connector lines radiating from node -->
+    <!-- top -->
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 74,18 L 74,22" />
+    <!-- right -->
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 82,26 L 86,26" />
+    <!-- left (toward chart) -->
+    <path
+        android:strokeColor="#FFD600"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M 66,26 L 62,26" />
+
+</vector>
