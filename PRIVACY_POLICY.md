@@ -53,6 +53,3 @@ We may update this Privacy Policy from time to time. Changes will be reflected i
 If you have questions about this Privacy Policy, please contact us at:
 **jhbfleming@gmail.com**
 
----
-*Replace `jhbfleming@gmail.com` with your actual contact email before publishing.*
-
